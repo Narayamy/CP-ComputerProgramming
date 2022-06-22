@@ -1,2 +1,2 @@
-# This repository shows my work in Computer Programing 
+# This repository shows my work in Computer Programming 
 
